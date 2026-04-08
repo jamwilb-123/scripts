@@ -11,3 +11,6 @@ Personal development log — notes, findings, and ongoing work.
 - Reviewed open issues, added labels
 - Updated license year
 - Tested build on clean environment
+
+## 2026-04-08
+- Added healthcheck endpoint stub
